@@ -1,0 +1,39 @@
+1. Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
+
+2. Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
+
+3. Desenvolva um programa que leia uma distância em metros e mostre os valores relativos em
+outras medidas.
+Ex: Digite uma distância em metros: 185.72
+A distância de 85.7m corresponde a:
+0.18572Km
+1.8572Hm
+18.572Dam
+1857.2dm
+18572.0cm
+185720.0mm
+
+4. Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre
+quantos dólares ela pode comprar. Considere US$1,00 = R$5,24.
+
+5. Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser
+pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta
+pinta uma área de 3 m².
+
+6. Desenvolva uma lógica que leia os valores de A, B e C de uma equação do segundo grau e
+mostre o valor de Delta.
+
+7. Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO
+PROMOCIONAL, com 15% de desconto.
+
+8. Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o seu novo salário,
+com 10% de aumento.
+
+9. A locadora de carros precisa da sua ajuda para cobrar seus serviços. Escreva um programa
+que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias
+pelos quais ele foi alugado. Calcule o preço total a pagar, sabendo que o carro custa R$50,00
+por dia e R$0,80 por Km rodado.
+
+10.Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de
+um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$36,00 por hora
+trabalhada
