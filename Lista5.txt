@@ -1,0 +1,20 @@
+1. Desenvolva um algoritmo que leia uma matriz 5x5. Em seguida troque os elementos da linha
+3 pela linha 5 e vice-versa.
+
+2. Escrever um algoritmo para armazenar valores inteiros em uma matriz (5,6). A seguir, mostrar
+a matriz e calcular a média dos valores pares contidos na matriz escrevendo o resultado.
+
+3. Escrever um algoritmo para ler uma matriz (7,4) contendo valores inteiros (supor que os
+valores são distintos). Após, encontrar o menor valor contido na matriz e sua posição.
+
+4. Desenvolva um programa que lê uma matriz 6x6 de números inteiros e mostre soma da sua
+diagonal secundária.
+
+5. Dadas duas matrizes reais Amxn e Bnxp, calcular o produto de A por B e salvar em uma
+matriz C. Para esse exercício declare: c: vetor[1..50,1..50] de inteiro
+Exemplo:
+
+ A     x     B     =     C
+
+2 1    x    3 2    =    7 9
+0 4         1 5         4 20

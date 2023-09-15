@@ -1,0 +1,35 @@
+1. Crie um programa que preencha automaticamente (usando lógica, não apenas atribuindo
+diretamente) um vetor numérico com 15 posições com os primeiros elementos da sequência
+de Fibonacci.
+
+2. Crie um programa que preencha automaticamente um vetor numérico com 7 números
+gerados aleatoriamente pelo computador e depois mostre os valores gerados na tela.
+
+3. Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No final, mostre
+uma listagem com todos os nomes informados, na ordem inversa daquela em que eles foram
+informados.
+
+4. Escreva um programa que leia 15 números e guarde-os em um vetor. No final, mostre o vetor
+inteiro na tela e em seguida mostre em que posições foram digitados valores que são
+múltiplos de 10.
+
+5. Faça um algoritmo que preencha um vetor de 30 posições com números entre 1 e 15
+sorteados pelo computador. Depois disso, peça para o usuário digitar um número (chave) e
+seu programa deve mostrar em que posições essa chave foi encontrada. Mostre também
+quantas vezes a chave foi sorteada.
+
+6. Faça um algoritmo que leia a nota de 10 alunos de uma turma e guarde-as em um vetor. No
+final, mostre:
+a) Qual é a média da turma
+b) Quantos alunos estão acima da média da turma
+c) Qual foi a maior nota digitada
+d) Em que posições a maior nota aparece
+
+7. Escreva um algoritmo que permita a leitura dos nomes de 10 pessoas e armazene os nomes
+lidos em um vetor. Após isto, o algoritmo deve permitir a leitura de mais 1 nome qualquer de
+pessoa e depois escrever a mensagem ACHEI, se o nome estiver entre os 10 nomes lidos
+anteriormente (guardados no vetor), ou NÃO ACHEI caso contrário.
+
+8. Ler um vetor A de 10 números. Após, ler mais um número e guardar em uma variável X.
+Armazenar em um vetor M o resultado de cada elemento de A multiplicado pelo valor X. Logo
+após, imprimir o vetor M.

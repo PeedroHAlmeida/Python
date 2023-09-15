@@ -1,0 +1,44 @@
+1. Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou ÍMPAR.
+
+2. Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse 80Km/h, exiba uma
+mensagem dizendo que o usuário foi multado. Nesse caso, exiba o valor da multa, cobrando R$5 por cada
+Km acima da velocidade permitida.
+
+3. Faça um programa que leia a largura e o comprimento de um terreno retangular, calculando e mostrando a
+sua área em m². O programa também deve mostrar a classificação desse terreno, de acordo com a lista
+abaixo:
+- Abaixo de 100m² = TERRENO POPULAR
+- Entre 100m² e 500m² = TERRENO MASTER
+- Acima de 500m² = TERRENO VIP
+
+4. Escreva um programa para aprovar ou não o empréstimo bancário para a compra de uma casa. O programa
+vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da
+prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+
+5. Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos para todos, mas
+especialmente para mulheres. Faça um programa que leia nome, sexo e o valor das compras do
+cliente e calcule o preço com desconto. Sabendo que:
+- Homens ganham 5% de desconto
+- Mulheres ganham 13% de desconto
+
+6. Desenvolva um algoritmo que calcule as raízes de uma equação do 2º grau, na forma Ax² + Bx + C,
+levando em consideração a existência de raízes reais.
+
+7. Um programa de vida saudável quer dar pontos de atividades físicas que podem ser trocados por dinheiro. O
+sistema funciona assim:
+- Cada hora de atividade física no mês vale pontos
+- até 10h de atividade no mês: ganha 2 pontos por hora
+- de 10h até 20h de atividade no mês: ganha 5 pontos por hora
+- acima de 20h de atividade no mês: ganha 10 pontos por hora
+- A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)
+Faça um programa que leia quantas horas de atividade uma pessoa teve por mês, calcule e mostre
+quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+
+8. Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de
+etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição
+de pagamento escolhida e efetuar o cálculo adequado.
+Código Condição de pagamento
+1 - À vista em dinheiro ou cheque, recebe 10% de desconto
+2 - À vista no cartão de crédito, recebe 5% de desconto
+3 - Em duas vezes, preço normal de etiqueta sem juros
+4 - Em três vezes, preço normal de etiqueta mais juros de 10%
